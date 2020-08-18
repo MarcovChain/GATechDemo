@@ -18,12 +18,12 @@ Agenda:
 
 	Also very useful as universal storage/repository for your work/courses/etc. 
 	Demos: 
-		- https://github.gatech.edu/lwalkosz3/Innovation
-		- https://github.gatech.edu/mboulet3/ISYE6740_Summer20/
-		- https://github.com/MarcovChain/ISYE6740
-		- https://github.com/MarcovChain/CSE6242
-		- https://github.com/MarcovChain/ISYE6644
-		- https://github.com/MarcovChain/brand
+		- https://github.com/MarcovChain/ISYE6740  
+		- https://github.com/MarcovChain/CSE6242  
+		- https://github.com/MarcovChain/ISYE6644  
+		- https://github.com/MarcovChain/brand  
+		- https://github.gatech.edu/lwalkosz3/Innovation  
+		- https://github.gatech.edu/mboulet3/ISYE6740_Summer20/  
 
 2) installing git: https://git-scm.com/downloads
 
