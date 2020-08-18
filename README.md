@@ -8,7 +8,7 @@ Agenda:
 4) connecting and interacting with GitHub 
 5) VS Code integration with GitHub
 
-
+---------------------------
 1) why version control?
 
 From https://www.atlassian.com/git/tutorials/what-is-version-control:  
