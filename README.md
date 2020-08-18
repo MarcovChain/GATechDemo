@@ -18,7 +18,6 @@ Agenda:
 
 	Also very useful as universal storage/repository for your work/courses/etc. 
 	Demos:  
-	
 		- https://github.com/MarcovChain/ISYE6740  
 		- https://github.com/MarcovChain/CSE6242  
 		- https://github.com/MarcovChain/ISYE6644  
