@@ -16,7 +16,14 @@ Agenda:
 	From https://www.atlassian.com/git/tutorials/what-is-version-control:  
 	Version control systems are a category of software tools that help a software team manage changes to source code over time. Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
-	Also very useful as universal storage/repository for your work/courses/etc. (Marc's repositories)
+	Also very useful as universal storage/repository for your work/courses/etc. 
+	Demos: 
+		- https://github.gatech.edu/lwalkosz3/Innovation
+		- https://github.gatech.edu/mboulet3/ISYE6740_Summer20/
+		- https://github.com/MarcovChain/ISYE6740
+		- https://github.com/MarcovChain/CSE6242
+		- https://github.com/MarcovChain/ISYE6644
+		- https://github.com/MarcovChain/brand
 
 2) installing git: https://git-scm.com/downloads
 
