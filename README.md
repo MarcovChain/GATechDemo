@@ -30,7 +30,8 @@ Agenda:
 3) setting up GitHub: https://docs.github.com/en/github/getting-started-with-github/set-up-git
 
 4) connecting and interacting with GitHub  
-	- https://desktop.github.com/
+	- https://desktop.github.com/  
+	- http://guides.beanstalkapp.com/version-control/common-git-commands.html
 
 5) VS Code integration with GitHub: https://code.visualstudio.com/  
 
