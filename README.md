@@ -29,7 +29,8 @@ Agenda:
 
 3) setting up GitHub: https://docs.github.com/en/github/getting-started-with-github/set-up-git
 
-4) connecting and interacting with GitHub 
+4) connecting and interacting with GitHub  
+	- https://desktop.github.com/
 
 	live demo!
 
