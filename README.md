@@ -32,8 +32,6 @@ Agenda:
 4) connecting and interacting with GitHub  
 	- https://desktop.github.com/
 
-	live demo!
-
 5) VS Code integration with GitHub: https://code.visualstudio.com/  
 
 	VS Code is a free IDE from Microsoft. I find it useful for multi-language coding. Examples:
