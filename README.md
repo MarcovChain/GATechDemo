@@ -4,7 +4,6 @@ GitHub demo for GATech AB WhatsApp group
 ---------------------------
 Agenda: 
 1) why version control?
-	- because it's really cool.
 2) installing git 
 3) setting up a GitHub account
 4) connecting and interacting with GitHub
@@ -18,18 +17,13 @@ Agenda:
 	Version control systems are a category of software tools that help a software team manage changes to source code over time. Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
 	Also very useful as universal storage/repository for your work/courses/etc. 
-	Demos:  
-			- https://github.gatech.edu/lwalkosz3/Innovation  
-			- https://github.gatech.edu/mboulet3/ISYE6740_Summer20/  
-			- https://github.com/MarcovChain/ISYE6740  
-			- https://github.com/MarcovChain/CSE6242  
-			- https://github.com/MarcovChain/ISYE6644  
-			- https://github.com/MarcovChain/brand   
-
+	
 2) installing git: https://git-scm.com/downloads
 
-3) setting up GitHub: https://docs.github.com/en/github/getting-started-with-github/set-up-git
-
+3) setting up GitHub: 
+	- https://docs.github.com/en/github/getting-started-with-github/set-up-git
+	- https://medium.com/@aklson_DS/how-to-properly-setup-your-github-repository-windows-version-ea596b398b
+	
 4) connecting and interacting with GitHub  
 	- https://desktop.github.com/  
 	- http://guides.beanstalkapp.com/version-control/common-git-commands.html
