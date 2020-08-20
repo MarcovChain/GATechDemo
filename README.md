@@ -4,6 +4,7 @@ GitHub demo for GATech AB WhatsApp group
 ---------------------------
 Agenda: 
 1) why version control?
+	- because it's really cool.
 2) installing git 
 3) setting up a GitHub account
 4) connecting and interacting with GitHub
